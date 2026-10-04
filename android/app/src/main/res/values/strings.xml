@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_today_desc">Tes habitudes du jour, à cocher depuis l\'écran d\'accueil</string>
+    <string name="widget_progress_desc">Progression du jour, série et niveau</string>
+</resources>
